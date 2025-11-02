@@ -25,6 +25,3 @@ This project allows users to create, edit, delete, and read blog posts with a re
 - MongoDB
   
 ---
-
-## 📁 Folder Structure
-
